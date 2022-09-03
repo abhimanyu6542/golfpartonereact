@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/golfpartonereact/static/css/main.e6c13ad2.css",
+    "main.js": "/golfpartonereact/static/js/main.ca739810.js",
+    "static/js/787.b5f12f7b.chunk.js": "/golfpartonereact/static/js/787.b5f12f7b.chunk.js",
+    "index.html": "/golfpartonereact/index.html",
+    "main.e6c13ad2.css.map": "/golfpartonereact/static/css/main.e6c13ad2.css.map",
+    "main.ca739810.js.map": "/golfpartonereact/static/js/main.ca739810.js.map",
+    "787.b5f12f7b.chunk.js.map": "/golfpartonereact/static/js/787.b5f12f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ca739810.js"
+  ]
+}
